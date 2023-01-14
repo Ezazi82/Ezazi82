@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My name is Cameron and here's where I'll show off a little of what I'm working on and interested in!
+## - 🔭 I’m currently working on improving my SQL
+## - 🌱 I’m currently learning to use machine learning for economics in Python
