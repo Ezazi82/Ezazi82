@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## My name is Cameron and here's where I'll show off a little of what I'm working on and interested in!
 ## - 🔭 I’m currently working on improving my data vizualization skills
-## - 🌱 I’m currently learning to use TensorFlow in Python
+## - 🌱 I’m currently learning Natural Language Processing (NLP) in Python
